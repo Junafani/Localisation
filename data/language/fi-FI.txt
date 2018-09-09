@@ -247,7 +247,7 @@ STR_0851    :{WINDOW_COLOUR_2}Suunnitellut ja ohjelmoinut Chris Sawyer
 STR_0852    :{WINDOW_COLOUR_2}Grafiikka Simon Foster
 STR_0853    :{WINDOW_COLOUR_2}Äänet ja musiikki Allister Brimble
 STR_0854    :{WINDOW_COLOUR_2}Lisä-äänet nauhoittanut David Ellis
-STR_0855    :{WINDOW_COLOUR_2}Edustaja Jacqui Lyons at Marjacq Ltd.
+STR_0855    :{WINDOW_COLOUR_2}Edustaja Jacqui Lyons Marjacq Ltd:stä
 STR_0856    :{WINDOW_COLOUR_2}Kiitoksia:
 STR_0857    :{WINDOW_COLOUR_2}Peter James Adcock, Joe Booth, ja John Wardley
 STR_0865    :{STRINGID}
@@ -374,7 +374,7 @@ STR_0987    :Liian monta laitetta/kohdetta
 STR_0988    :Ei pysty luomaan uutta laitetta/kohdetta...
 STR_0989    :{STRINGID}
 STR_0990    :{SMALLFONT}{BLACK}Rakennus
-STR_0991    :Asematasanne
+STR_0991    :Asemalaituri
 STR_0992    :{SMALLFONT}{BLACK}Romuta koko laite/kohde
 STR_0993    :Romuta laite/nähtävyys
 STR_0994    :Romuta
@@ -382,7 +382,7 @@ STR_0995    :{WINDOW_COLOUR_1}Oletko varma että haluat tuhota {STRINGID}:n?
 STR_0996    :Kokonaisnäkymä
 STR_0997    :{SMALLFONT}{BLACK}Katso valinta
 STR_0998    :Ei lisää asemia sallittu tälle laitteelle
-STR_0999    :Vaatii asematasanteen
+STR_0999    :Vaatii asemalaiturin
 STR_1000    :Rata ei tee täydellistä kierrosta
 STR_1001    :Rata ei sovi kyseiselle junalajille
 STR_1002    :Avaaminen ei onnistu laitteessa {POP16}{POP16}{POP16}{STRINGID}...
@@ -398,20 +398,20 @@ STR_1011    :Sulje kaikki
 STR_1012    :Avaa kaikki
 STR_1013    :Sulje puisto
 STR_1014    :Avaa puisto
-STR_1015    :Tämä toimintatila ei toimi useamman asematasanteen kanssa
-STR_1016    :Tämä toimintatila vaatii vähintään kaksi asematasannetta
+STR_1015    :Tämä toimintatila ei toimi useamman asemalaiturin kanssa
+STR_1016    :Tämä toimintatila vaatii vähintään kaksi asemalaituria
 STR_1017    :Ei pysty vaihtaamaan toimintatilaa...
 STR_1018    :Muutoksien teko ei onnistu...
 STR_1019    :Muutoksien teko ei onnistu...
 STR_1020    :Muutoksien teko ei onnistu...
 STR_1021    :{POP16}{POP16}{POP16}{POP16}{STRINGID}
-STR_1022    :{POP16}{POP16}{POP16}{COMMA16} auto per juna
-STR_1023    :{POP16}{POP16}{POP16}{COMMA16} autoa per juna
-STR_1024    :{COMMA16} auto per juna
-STR_1025    :{COMMA16} autoa per juna
-STR_1026    :Asematasanne on liian pitkä!
+STR_1022    :{POP16}{POP16}{POP16}{COMMA16} vaunu per juna
+STR_1023    :{POP16}{POP16}{POP16}{COMMA16} vaunua per juna
+STR_1024    :{COMMA16} vaunu per juna
+STR_1025    :{COMMA16} vaunua per juna
+STR_1026    :Asemalaituri on liian pitkä!
 STR_1027    :{SMALLFONT}{BLACK}Paikanna tämä päänäkymässä
-STR_1028    :Kentän laidan yli!
+STR_1028    :Kartan laidan yli!
 STR_1029    :Ei voi rakentaa osittain veden pinnan ylle ja alle!
 STR_1030    :Tämän voi rakentaa ainoastaan veden alle!
 STR_1031    :Tätä ei voi rakentaa veden alle!
@@ -615,7 +615,7 @@ STR_1228    :{SMALLFONT}{BLACK}Kaupat ja kojut
 STR_1229    :juna
 STR_1230    :junaa
 STR_1231    :Juna
-STR_1232    :junaa
+STR_1232    :Junaa
 STR_1233    :{COMMA16} juna
 STR_1234    :{COMMA16} junaa
 STR_1235    :Juna {COMMA16}
@@ -731,10 +731,10 @@ STR_1344    :{WINDOW_COLOUR_2}Radan pituus: {BLACK}{STRINGID}{STRINGID}{STRINGID
 STR_1345    :{LENGTH}
 STR_1346    :{LENGTH} / 
 STR_1347    :{WINDOW_COLOUR_2}Keskinopeus: {BLACK}{VELOCITY}
-STR_1348    :{WINDOW_COLOUR_2}Suurin positiivinen vertikaalinen G-voima: {BLACK}{COMMA2DP32}g
-STR_1349    :{WINDOW_COLOUR_2}Suurin positiivinen vertikaalinen G-voima: {OUTLINE}{RED}{COMMA2DP32}g
-STR_1350    :{WINDOW_COLOUR_2}Suurin negatiivinen vertikaalinen G-voima: {BLACK}{COMMA2DP32}g
-STR_1351    :{WINDOW_COLOUR_2}Suurin negatiivinen vertikaalinen G-voima: {OUTLINE}{RED}{COMMA2DP32}g
+STR_1348    :{WINDOW_COLOUR_2}Suurin positiivinen pystysuora G-voima: {BLACK}{COMMA2DP32}g
+STR_1349    :{WINDOW_COLOUR_2}Suurin positiivinen pystysuora G-voima: {OUTLINE}{RED}{COMMA2DP32}g
+STR_1350    :{WINDOW_COLOUR_2}Suurin negatiivinen pystysuora G-voima: {BLACK}{COMMA2DP32}g
+STR_1351    :{WINDOW_COLOUR_2}Suurin negatiivinen pystysuora G-voima: {OUTLINE}{RED}{COMMA2DP32}g
 STR_1352    :{WINDOW_COLOUR_2}Suurin sivuttainen G-voima: {BLACK}{COMMA2DP32}g
 STR_1353    :{WINDOW_COLOUR_2}Suurin sivuttainen G-voima: {OUTLINE}{RED}{COMMA2DP32}g
 STR_1354    :{WINDOW_COLOUR_2}Korkein pudotuskorkeus: {BLACK}{LENGTH}
@@ -742,7 +742,7 @@ STR_1355    :{WINDOW_COLOUR_2}Pudotuksia: {BLACK}{COMMA16}
 STR_1356    :{WINDOW_COLOUR_2}Käänteitä: {BLACK}{COMMA16}
 STR_1357    :{WINDOW_COLOUR_2}Reikiä: {BLACK}{COMMA16}
 #1358 Airtime is used in finnish for the lack of a better word
-STR_1358    :{WINDOW_COLOUR_2}airtime yhteensä: {BLACK}{COMMA2DP32}secs
+STR_1358    :{WINDOW_COLOUR_2}Airtime yhteensä: {BLACK}{COMMA2DP32}secs
 STR_1359    :{WINDOW_COLOUR_2}Jonotusaika: {BLACK}{COMMA16} minuutti
 STR_1360    :{WINDOW_COLOUR_2}Jonotusaika: {BLACK}{COMMA16} minuuttia
 STR_1361    :Nopeuden muuttaminen ei onnistu...
@@ -777,7 +777,7 @@ STR_1389    :{OUTLINE}{RED}- {CURRENCY}
 STR_1390    :{CURRENCY2DP}
 STR_1391    :{RED}{CURRENCY2DP}
 STR_1392    :{SMALLFONT}{BLACK}Näkymä laitteesta/kohteesta
-STR_1393    :{SMALLFONT}{BLACK}Kulkuneuvon yksitoiskohdat ja asetukset
+STR_1393    :{SMALLFONT}{BLACK}Kulkuneuvon yksityiskohdat ja asetukset
 STR_1394    :{SMALLFONT}{BLACK}Toiminta-asetukset
 STR_1395    :{SMALLFONT}{BLACK}Huoltoasetukset
 STR_1396    :{SMALLFONT}{BLACK}Värityylin asetukset
@@ -793,7 +793,7 @@ STR_1405    :{SMALLFONT}{BLACK}Peilaa kuva
 STR_1406    :{SMALLFONT}{BLACK}Vaihda maisema päälle/pois (vain jos saatavilla tälle suunnitelmalle)
 STR_1407    :{WINDOW_COLOUR_2}Rakenna tämä...
 STR_1408    :{WINDOW_COLOUR_2}Kustannus: {BLACK}{CURRENCY}
-STR_1409    :Sisään-/uloskäyntitasanne
+STR_1409    :Sisään-/uloskäyntilaituri
 STR_1410    :Pystysuora torni
 STR_1411    :{STRINGID} tiellä
 STR_1412    :{WINDOW_COLOUR_3}Tietojen keruu ei ole saatavilla tämäntyyppiselle laitteelle
@@ -859,12 +859,12 @@ STR_1470    :Asema ei ole tarpeeksi pitkä
 STR_1471    :{WINDOW_COLOUR_2}Nopeus:
 STR_1472    :{SMALLFONT}{BLACK}Tämän laitteen nopeus
 STR_1473    :{WINDOW_COLOUR_2}Jännityksen arvosana: {BLACK}{COMMA2DP32}  ({STRINGID})
-STR_1474    :{WINDOW_COLOUR_2}Jännityksen arvosana: {BLACK}Ei viellä saatavilla
+STR_1474    :{WINDOW_COLOUR_2}Jännityksen arvosana: {BLACK}Ei vielä saatavilla
 STR_1475    :{WINDOW_COLOUR_2}Intensiteettiarvosana: {BLACK}{COMMA2DP32}  ({STRINGID})
-STR_1476    :{WINDOW_COLOUR_2}Intensiteettiarvosana: {BLACK}Ei viellä saatavilla
+STR_1476    :{WINDOW_COLOUR_2}Intensiteettiarvosana: {BLACK}Ei vielä saatavilla
 STR_1477    :{WINDOW_COLOUR_2}Intensiteettiarvosana: {OUTLINE}{RED}{COMMA2DP32}  ({STRINGID})
 STR_1478    :{WINDOW_COLOUR_2}Pahoinvoinnin arvosana: {BLACK}{COMMA2DP32}  ({STRINGID})
-STR_1479    :{WINDOW_COLOUR_2}Pahoinvoinnin arvosana: {BLACK}Ei viellä saatavilla
+STR_1479    :{WINDOW_COLOUR_2}Pahoinvoinnin arvosana: {BLACK}Ei vielä saatavilla
 STR_1480    :{SMALLFONT}{OPENQUOTES}Minulla ei ole varaa mennä {STRINGID}{ENDQUOTES}
 STR_1481    :{SMALLFONT}{OPENQUOTES}Kulutin kaikki rahani{ENDQUOTES}
 STR_1482    :{SMALLFONT}{OPENQUOTES}Voin pahoin{ENDQUOTES}
@@ -875,7 +875,7 @@ STR_1486    :{SMALLFONT}{OPENQUOTES}En ole syönyt/juonut {STRINGID} loppuun vie
 STR_1487    :{SMALLFONT}{OPENQUOTES}Pelkästään {STRINGID} katsominen saa minut voimaan pahoin{ENDQUOTES}
 STR_1488    :{SMALLFONT}{OPENQUOTES}En aio maksaa noin paljon päästäkseni {STRINGID}{ENDQUOTES}
 STR_1489    :{SMALLFONT}{OPENQUOTES}Haluan kotiin{ENDQUOTES}
-STR_1490    :{SMALLFONT}{OPENQUOTES}{STRINGID} on todella hyvän arvoinen{ENDQUOTES}
+STR_1490    :{SMALLFONT}{OPENQUOTES}{STRINGID} on todella hyvän hintainen{ENDQUOTES}
 STR_1491    :{SMALLFONT}{OPENQUOTES}Minulla on jo {STRINGID}{ENDQUOTES}
 STR_1492    :{SMALLFONT}{OPENQUOTES}Minulla ei ole varaa ostaa {STRINGID}{ENDQUOTES}
 STR_1493    :{SMALLFONT}{OPENQUOTES}Minulla ei ole nälkä{ENDQUOTES}
@@ -916,19 +916,19 @@ STR_1527    :{SMALLFONT}{OPENQUOTES}Tämä hattara kojusta {STRINGID} on todella
 STR_1528    :
 STR_1529    :
 STR_1530    :
-STR_1531    :{SMALLFONT}{OPENQUOTES}Tämä pitsa kojusta {STRINGID} on todella hyvän hintainen{ENDQUOTES}
+STR_1531    :{SMALLFONT}{OPENQUOTES}Tämä pizza kojusta {STRINGID} on todella hyvän hintainen{ENDQUOTES}
 STR_1532    :
 STR_1533    :{SMALLFONT}{OPENQUOTES}Tämä popcorn kojusta {STRINGID} on todella hyvän hintainen{ENDQUOTES}
 STR_1534    :{SMALLFONT}{OPENQUOTES}Tämä nakkisämpylä kojusta {STRINGID} on todella hyvän hintainen{ENDQUOTES}
 STR_1535    :{SMALLFONT}{OPENQUOTES}Tämä lonkero kojusta {STRINGID} on todella hyvän hintainen{ENDQUOTES}
 STR_1536    :{SMALLFONT}{OPENQUOTES}Tämä hattu kojusta {STRINGID} on todella hyvän hintainen{ENDQUOTES}
 STR_1537    :{SMALLFONT}{OPENQUOTES}Tämä toffeeomena kojusta {STRINGID} on todella hyvän hintainen{ENDQUOTES}
-STR_1538    :{SMALLFONT}{OPENQUOTES}Tämä t-paita kojusta {STRINGID} on todella hyvän hintainen{ENDQUOTES}
+STR_1538    :{SMALLFONT}{OPENQUOTES}Tämä T-paita kojusta {STRINGID} on todella hyvän hintainen{ENDQUOTES}
 STR_1539    :{SMALLFONT}{OPENQUOTES}Tämä donitsi kojusta {STRINGID} on todella hyvän hintainen{ENDQUOTES}
 STR_1540    :{SMALLFONT}{OPENQUOTES}Tämä kahvi kojusta {STRINGID} on todella hyvän hintainen{ENDQUOTES}
 STR_1541    :
 STR_1542    :{SMALLFONT}{OPENQUOTES}Tämä friteerattu kana kojusta {STRINGID} on todella hyvän hintainen{ENDQUOTES}
-STR_1543    :{SMALLFONT}{OPENQUOTES}Tämä limonaati {STRINGID} on todella hyvän hintainen{ENDQUOTES}
+STR_1543    :{SMALLFONT}{OPENQUOTES}Tämä limonaadi {STRINGID} on todella hyvän hintainen{ENDQUOTES}
 STR_1544    :
 STR_1545    :
 STR_1546    :
@@ -950,14 +950,14 @@ STR_1561    :{SMALLFONT}{OPENQUOTES}En maksa noin paljon hattarasta kojussa {STR
 STR_1562    :
 STR_1563    :
 STR_1564    :
-STR_1565    :{SMALLFONT}{OPENQUOTES}En maksa noin paljon pitsasta kojussa {STRINGID}{ENDQUOTES}
+STR_1565    :{SMALLFONT}{OPENQUOTES}En maksa noin paljon pizzasta kojussa {STRINGID}{ENDQUOTES}
 STR_1566    :
 STR_1567    :{SMALLFONT}{OPENQUOTES}En maksa noin paljon popcornista kojussa {STRINGID}{ENDQUOTES}
 STR_1568    :{SMALLFONT}{OPENQUOTES}En maksa noin paljon nakkisämpylästä kojussa {STRINGID}{ENDQUOTES}
 STR_1569    :{SMALLFONT}{OPENQUOTES}En maksa noin paljon lonkerosta kojussa {STRINGID}{ENDQUOTES}
 STR_1570    :{SMALLFONT}{OPENQUOTES}En maksa noin paljon hatusta kojussa {STRINGID}{ENDQUOTES}
 STR_1571    :{SMALLFONT}{OPENQUOTES}En maksa noin paljon toffeeomenasta kojussa {STRINGID}{ENDQUOTES}
-STR_1572    :{SMALLFONT}{OPENQUOTES}En maksa noin paljon t-paidasta kojussa {STRINGID}{ENDQUOTES}
+STR_1572    :{SMALLFONT}{OPENQUOTES}En maksa noin paljon T-paidasta kojussa {STRINGID}{ENDQUOTES}
 STR_1573    :{SMALLFONT}{OPENQUOTES}En maksa noin paljon donitsista kojussa {STRINGID}{ENDQUOTES}
 STR_1574    :{SMALLFONT}{OPENQUOTES}En maksa noin paljon kahvista kojussa {STRINGID}{ENDQUOTES}
 STR_1575    :
@@ -989,7 +989,7 @@ STR_1600    :{SMALLFONT}{OPENQUOTES}Tämä keksi kojusta {STRINGID} on todella h
 STR_1601    :
 STR_1602    :
 STR_1603    :
-STR_1604    :{SMALLFONT}{OPENQUOTES}Tämä grillattu makkara kojusta {STRINGID} on todella hyvän hintainen{ENDQUOTES}
+STR_1604    :{SMALLFONT}{OPENQUOTES}Tämä grillimakkara kojusta {STRINGID} on todella hyvän hintainen{ENDQUOTES}
 STR_1605    :
 STR_1606    :
 STR_1607    :
@@ -1021,7 +1021,7 @@ STR_1632    :{SMALLFONT}{OPENQUOTES}En maksa noin paljon keksistä kojussa {STRI
 STR_1633    :
 STR_1634    :
 STR_1635    :
-STR_1636    :{SMALLFONT}{OPENQUOTES}En maksa noin paljon grillatusta makkarasta kojussa {STRINGID}{ENDQUOTES}
+STR_1636    :{SMALLFONT}{OPENQUOTES}En maksa noin paljon grillimakkarasta kojussa {STRINGID}{ENDQUOTES}
 STR_1637    :
 STR_1638    :
 STR_1639    :
@@ -1057,8 +1057,8 @@ STR_1669    :{WINDOW_COLOUR_2}Tyytyväisyys: {BLACK}{COMMA16}%
 STR_1670    :{WINDOW_COLOUR_2}Asiakkaiden määrä: {BLACK}{COMMA32}
 STR_1671    :{WINDOW_COLOUR_2}Kokonaistuotanto: {BLACK}{CURRENCY2DP}
 STR_1672    :Jarrut
-STR_1673    :Spinning Control Toggle Track
-STR_1674    :Jarrutusnopeus
+STR_1673    :Pyörinnänohjausraide
+STR_1674    :Jarrujen nopeus
 STR_1675    :{POP16}{VELOCITY}
 STR_1676    :{SMALLFONT}{BLACK}Aseta jarrujen nopeusrajoitus
 STR_1677    :{WINDOW_COLOUR_2}Suosio: {BLACK}Tuntematon
@@ -1073,7 +1073,7 @@ STR_1685    :Pohjan koko 2 x 4
 STR_1686    :Pohjan koko 5 x 1
 STR_1687    :Vesieste
 STR_1688    :Pohjan koko 4 x 1
-STR_1689    :Block brakes
+STR_1689    :Lohkojarrut
 STR_1690    :{WINDOW_COLOUR_2}{STRINGID}{NEWLINE}{BLACK}{STRINGID}
 STR_1691    :{WINDOW_COLOUR_2}  Hinta: {BLACK}{CURRENCY}
 STR_1692    :{WINDOW_COLOUR_2}  Hinta: {BLACK}from {CURRENCY}
@@ -1089,10 +1089,10 @@ STR_1701    :Palkkaa uusi mekaanikko
 STR_1702    :Palkkaa uusi vartija
 STR_1703    :Palkkaa uusi viihdyttäjä
 STR_1704    :Henkilökunnan palkkaaminen ei onnistu...
-STR_1705    :{SMALLFONT}{BLACK}Irtisano tämä henkilökunnan jäsen
+STR_1705    :{SMALLFONT}{BLACK}Irtisano tämä työntekijä
 STR_1706    :{SMALLFONT}{BLACK}Siirrä tämä henkilö uuteen sijaintiin
 STR_1707    :Liikaa henkilökuntaa pelissä
-STR_1708    :{SMALLFONT}{BLACK}Set patrol area for this staff member
+STR_1708    :{SMALLFONT}{BLACK}Aseta tämän työntekijän partiointialue
 STR_1709    :Irtisano henkilökunta
 STR_1710    :Kyllä
 STR_1711    :{WINDOW_COLOUR_1}Haluatko varmasti irtisanoa {STRINGID}?
@@ -1146,21 +1146,21 @@ STR_1761    :{SMALLFONT}{BLACK}Rakenna labyrinttia tähän suuntaan
 STR_1762    :Vesiputoukset
 STR_1763    :Kosket
 STR_1764    :Log Bumps
-STR_1765    :On-ride photo section
-STR_1766    :Reverser turntable
+STR_1765    :Laitekuvarata
+STR_1766    :Kääntöpöytä
 STR_1767    :Pyörivä tunneli
 STR_1768    :Heilahdusten määrää ei voitu muuttaa...
 STR_1769    :{WINDOW_COLOUR_2}Heilahdusten määrä:
 STR_1770    :{SMALLFONT}{BLACK}Kokonaisten heilahdusten määrä
 STR_1771    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
-STR_1773    :Only one on-ride photo section allowed per ride
+STR_1773    :Vain yksi laitekuvarata sallittu per laite
 STR_1774    :Vain yksi nostomäki sallittu per laite
 STR_1777    :{WINDOW_COLOUR_2}Musiikki
 STR_1778    :{STRINGID} - - 
 STR_1779    :{INLINE_SPRITE}{254}{19}{00}{00} Pandapuku
 STR_1780    :{INLINE_SPRITE}{255}{19}{00}{00} Tiikeripuku
 STR_1781    :{INLINE_SPRITE}{00}{20}{00}{00} Norsupuku
-STR_1782    :{INLINE_SPRITE}{01}{20}{00}{00} Roomalainenpuku
+STR_1782    :{INLINE_SPRITE}{01}{20}{00}{00} Roomalaispuku
 STR_1783    :{INLINE_SPRITE}{02}{20}{00}{00} Gorillapuku
 STR_1784    :{INLINE_SPRITE}{03}{20}{00}{00} Lumimiespuku
 STR_1785    :{INLINE_SPRITE}{04}{20}{00}{00} Ritaripuku
@@ -1175,7 +1175,7 @@ STR_1793    :Matkalla kohti {STRINGID} tarkistusta varten
 STR_1794    :Korjataan {STRINGID}
 STR_1795    :Vastataan radiopuheluun
 STR_1796    :Hajonnut ja korjauksen tarpeessa
-STR_1798    :Whirlpool
+STR_1798    :Vesipyörre
 STR_1799    :{POP16}{POP16}{POP16}{POP16}{POP16}{CURRENCY2DP}
 STR_1800    :Turvakatkaisu
 STR_1801    :Turvakaaret jumittuneet kiinni
@@ -1226,8 +1226,8 @@ STR_1845    :{MONTHYEAR}
 STR_1846    :{COMMA16} vierasta
 STR_1847    :{INLINE_SPRITE}{11}{20}{00}{00}{COMMA16} vierasta
 STR_1848    :{INLINE_SPRITE}{10}{20}{00}{00}{COMMA16} vierasta
-STR_1849    :{WINDOW_COLOUR_2}Toista musiikkia
-STR_1850    :{SMALLFONT}{BLACK}Valitse mitä musiikkia toistetaan tälle ajelulle
+STR_1849    :{WINDOW_COLOUR_2}Soita musiikkia
+STR_1850    :{SMALLFONT}{BLACK}Valitse mitä musiikkia tässä laitteessa soitetaan
 STR_1851    :{WINDOW_COLOUR_2}Käyttökustannus: {BLACK}{CURRENCY2DP} per tunti
 STR_1852    :{WINDOW_COLOUR_2}Käyttökustannus: {BLACK}Tuntematon
 STR_1853    :{WINDOW_COLOUR_2}Rakennettu: {BLACK}Tämä vuosi
@@ -1338,7 +1338,7 @@ STR_1959    :Kierrosten määrää ei voi muuttaa...
 STR_1960    :{WINDOW_COLOUR_2}Ilmapallon hinta:
 STR_1961    :{WINDOW_COLOUR_2}Pehmolelun hinta:
 STR_1962    :{WINDOW_COLOUR_2}Puiston kartan hinta:
-STR_1963    :{WINDOW_COLOUR_2}On-Ride Photo price:
+STR_1963    :{WINDOW_COLOUR_2}Laitekuvan hinta:
 STR_1964    :{WINDOW_COLOUR_2}Sateenvarjon hinta:
 STR_1965    :{WINDOW_COLOUR_2}Juoman hinta:
 STR_1966    :{WINDOW_COLOUR_2}Hampurilaisen hinta:
@@ -1359,14 +1359,14 @@ STR_1980    :{WINDOW_COLOUR_2}T-paidan hinta:
 STR_1981    :{WINDOW_COLOUR_2}Donitsin hinta:
 STR_1982    :{WINDOW_COLOUR_2}Kahvin hinta:
 STR_1983    :{WINDOW_COLOUR_2}
-STR_1984    :{WINDOW_COLOUR_2}Paistetun kanan hinta:
+STR_1984    :{WINDOW_COLOUR_2}Friteeratun kanan hinta:
 STR_1985    :{WINDOW_COLOUR_2}Limonaadin hinta:
 STR_1986    :{WINDOW_COLOUR_2}
 STR_1987    :{WINDOW_COLOUR_2}
 STR_1988    :Ilmapallo
 STR_1989    :Pehmolelu
 STR_1990    :Puiston kartta
-STR_1991    :On-Ride Photo
+STR_1991    :Laitekuva
 STR_1992    :Sateenvarjo
 STR_1993    :Juoma
 STR_1994    :Hampurilainen
@@ -1387,14 +1387,14 @@ STR_2008    :T-paita
 STR_2009    :Donitsi
 STR_2010    :Kahvi
 STR_2011    :Tyhjä kuppi
-STR_2012    :Paistettu kana
+STR_2012    :Friteerattu kana
 STR_2013    :Limonaadi
 STR_2014    :Tyhjä rasia
 STR_2015    :Tyhjä pullo
 STR_2016    :Ilmapalloja
 STR_2017    :Pehmoleluja
 STR_2018    :Puistokarttoja
-STR_2019    :On-Ride Photos
+STR_2019    :Laitekuvia
 STR_2020    :Sateenvarjoja
 STR_2021    :Juomia
 STR_2022    :Hampurilaisia
@@ -1415,14 +1415,14 @@ STR_2036    :T-paitoja
 STR_2037    :Donitseja
 STR_2038    :Kahvia
 STR_2039    :Tyhjiä tölkkejä
-STR_2040    :Paistettu kana
-STR_2041    :Limonaadi
+STR_2040    :Friteerattuja kanoja
+STR_2041    :Limonaadeja
 STR_2042    :Tyhjiä rasiota
 STR_2043    :Tyhjiä pulloja
 STR_2044    :Ilmapallo
 STR_2045    :Pehmolelu
 STR_2046    :Puiston kartta
-STR_2047    :an On-Ride Photo
+STR_2047    :Laitekuva
 STR_2048    :Sateenvarjo
 STR_2049    :Juoma
 STR_2050    :Hampurilainen
@@ -1443,14 +1443,14 @@ STR_2064    :T-paita
 STR_2065    :Donitsi
 STR_2066    :Kahvi
 STR_2067    :Tyhjä tölkki
-STR_2068    :Paistettua kanaa
+STR_2068    :Friteerattua kanaa
 STR_2069    :Limonaadia
 STR_2070    :Tyhjä rasia
 STR_2071    :Tyhjä pullo
 STR_2072    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Ilmapallo
 STR_2073    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Pehmolelu
 STR_2074    :{STRINGID}:n Kartta
-STR_2075    :Kuva {STRINGID}:sta
+STR_2075    :Laitekuva {STRINGID}:sta
 STR_2076    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Sateenvarjo
 STR_2077    :Juoma
 STR_2078    :Hampurilainen
@@ -1471,11 +1471,11 @@ STR_2092    :{OPENQUOTES}{STRINGID}{ENDQUOTES} T-paita
 STR_2093    :Donitsi
 STR_2094    :Kahvi
 STR_2095    :Tyhjä tölkki
-STR_2096    :Paistettu kana
+STR_2096    :Friteerattu kana
 STR_2097    :Limonaadi
 STR_2098    :Tyhjä tölkki
 STR_2099    :Tyhjä pullo
-STR_2103    :{WINDOW_COLOUR_2}Rinkelin hinta:
+STR_2103    :{WINDOW_COLOUR_2}Viipurinrinkelin hinta:
 STR_2104    :{WINDOW_COLOUR_2}Kaakaon hinta:
 STR_2105    :{WINDOW_COLOUR_2}Jääteen hinta:
 STR_2106    :{WINDOW_COLOUR_2}Tippaleivän hinta:
@@ -1488,13 +1488,13 @@ STR_2112    :{WINDOW_COLOUR_2}Hedelmämehun hinta:
 STR_2113    :{WINDOW_COLOUR_2}Soijapapumaidon hinta:
 STR_2114    :{WINDOW_COLOUR_2}Sujongkwan hinta:
 STR_2115    :{WINDOW_COLOUR_2}Patongin hinta:
-STR_2116    :{WINDOW_COLOUR_2}Piparin hinta:
+STR_2116    :{WINDOW_COLOUR_2}Keksin hinta:
 STR_2117    :{WINDOW_COLOUR_2}
 STR_2118    :{WINDOW_COLOUR_2}
 STR_2119    :{WINDOW_COLOUR_2}
-STR_2120    :{WINDOW_COLOUR_2}Paahdetun makkaran hinta:
+STR_2120    :{WINDOW_COLOUR_2}Grillimakkaran hinta:
 STR_2121    :{WINDOW_COLOUR_2}
-STR_2125    :Rinkeli
+STR_2125    :Viipurinrinkeli
 STR_2126    :Kaakao
 STR_2127    :Jäätee
 STR_2128    :Tippaleipä
@@ -1507,13 +1507,13 @@ STR_2134    :Hedelmämehu
 STR_2135    :Soijapapumaito
 STR_2136    :Sujongkwa
 STR_2137    :Patonki
-STR_2138    :Pipari
+STR_2138    :Keksi
 STR_2139    :Tyhjä kulho
 STR_2140    :Tyhjä juomatölkki
 STR_2141    :Tyhjä mehukuppi
-STR_2142    :Paahdettu makkara
+STR_2142    :Grillimakkara
 STR_2143    :Tyhjä kulho
-STR_2147    :Rinkelit
+STR_2147    :Viipurinrinkelit
 STR_2148    :Kaakaot
 STR_2149    :Jääteet
 STR_2150    :Tippaleivät
@@ -1526,13 +1526,13 @@ STR_2156    :Hedelmämehut
 STR_2157    :Soijapapumaidot
 STR_2158    :Sujongkwa
 STR_2159    :Patongit
-STR_2160    :Piparit
+STR_2160    :Keksit
 STR_2161    :Tyhjiä kulhoja
 STR_2162    :Tyhjiä juomatölkkejä
 STR_2163    :Tyhjiä mehukuppeja
-STR_2164    :Paahdetut makkarat
+STR_2164    :Grillimakkarat
 STR_2165    :Tyhjiä kulhoja
-STR_2169    :Rinkeli
+STR_2169    :Viipurinrinkeli
 STR_2170    :Kaakao
 STR_2171    :Jäätee
 STR_2172    :Tippaleipä
@@ -1545,11 +1545,11 @@ STR_2178    :Hedelmämehua
 STR_2179    :Soijapapumaitoa
 STR_2180    :Sujongkwaa
 STR_2181    :Patonki
-STR_2182    :Pipari
+STR_2182    :Keksi
 STR_2183    :Tyhjä kulho
 STR_2184    :Tyhjä juomatölkki
 STR_2185    :Tyhjä mehukuppi
-STR_2186    :Paahdettu makkara
+STR_2186    :Grillimakkara
 STR_2187    :Tyhjä kulho
 STR_2191    :Rinkeli
 STR_2192    :Kaakao
@@ -1564,11 +1564,11 @@ STR_2200    :Hedelmämehu
 STR_2201    :Soijapapumaito
 STR_2202    :Sujongkwa
 STR_2203    :Patonki
-STR_2204    :Pipari
+STR_2204    :Keksi
 STR_2205    :Tyhjä kulho
 STR_2206    :Tyhjä juomatölkki
 STR_2207    :Tyhjä mehukuppi
-STR_2208    :Paahdettu makkara
+STR_2208    :Grillimakkara
 STR_2209    :Tyhjä kulho
 STR_2210    :{SMALLFONT}{BLACK}Näytä puiston yleismiehet
 STR_2211    :{SMALLFONT}{BLACK}Näytä puiston mekaanikot
@@ -1578,7 +1578,7 @@ STR_2214    :Rakentaminen ei ole mahdollista pelin ollessa pysäytettynä!
 STR_2215    :{STRINGID}{NEWLINE}({STRINGID})
 STR_2216    :{WINDOW_COLOU1R_2}{COMMA16}{DEGREE}C
 STR_2217    :{WINDOW_COLOUR_2}{COMMA16}{DEGREE}F
-STR_2218    :{RED}{STRINGID} on {STRINGID} hasn't returned to the {STRINGID} yet!{NEWLINE}Check whether it is stuck or has stalled
+STR_2218    :{RED}{STRINGID} kohteessa {STRINGID} ei ole palannut vielä {STRINGID}!{NEWLINE}Tarkista, että se ei ole jumissa
 STR_2219    :{RED}{COMMA16} ihmistä kuoli tapaturmassa kohteessa {STRINGID}
 STR_2220    :{WINDOW_COLOUR_2}Puiston luokitus: {BLACK}{COMMA16}
 STR_2221    :{SMALLFONT}{BLACK}Puiston luokitus: {COMMA16}
@@ -1613,7 +1613,7 @@ STR_2249    :{BABYBLUE}Uusi laite/kohde saatavilla:{NEWLINE}{STRINGID}
 STR_2250    :{BABYBLUE}Uusi maisema/teemaus saatavilla:{NEWLINE}{STRINGID}
 STR_2251    :Voidaan rakentaa ainoastaan poluille!
 STR_2252    :Voidaan rakentaa ainoastaan polun poikki!
-STR_2253    :Transportaatiolaitteet
+STR_2253    :Kuljetuslaitteet
 STR_2254    :Lempeät laitteet
 STR_2255    :Vuoristoradat
 STR_2256    :Jännittävät Laitteet
@@ -1635,10 +1635,10 @@ STR_2271    :{WINDOW_COLOUR_2}Odotettavista: {BLACK}{STRINGID}
 STR_2272    :{WINDOW_COLOUR_2}Laitteet/kohteet:{NEWLINE}{BLACK}{STRINGID}
 STR_2273    :{WINDOW_COLOUR_2}Maisemointi/teemaus:{NEWLINE}{BLACK}{STRINGID}
 STR_2274    :{SMALLFONT}{BLACK}Näytä tämän keksinnön tai kehityksen yksityiskohdat
-STR_2275    :{SMALLFONT}{BLACK}Show funding and options for research & development
-STR_2276    :{SMALLFONT}{BLACK}Show research & development status
+STR_2275    :{SMALLFONT}{BLACK}Näytä rahoitus ja vaihtoehdot tutkimustyölle
+STR_2276    :{SMALLFONT}{BLACK}Näytä tukimustyön tila
 STR_2277    :Tuntematon
-STR_2278    :Transportaatiolaite
+STR_2278    :Kuljetuslaite
 STR_2279    :Lempeä laite
 STR_2280    :Vuoristorata
 STR_2281    :Jännittävä laite
@@ -1729,8 +1729,8 @@ STR_2372    :Matala
 STR_2373    :Keski
 STR_2374    :Korkea
 STR_2375    :Todella korkea
-STR_2376    :Extreme
-STR_2377    :Ultra-Extreme
+STR_2376    :Äärimmäinen
+STR_2377    :Ultra-äärimmäinen
 STR_2378    :{SMALLFONT}{BLACK}Säädä pienempää maa-aluetta
 STR_2379    :{SMALLFONT}{BLACK}Säädä suurempaa maa-aluetta
 STR_2380    :{SMALLFONT}{BLACK}Säädä pienempää vesialuetta
@@ -1754,7 +1754,7 @@ STR_2397    :Ei mitään
 STR_2398    :Vieraiden määrä tiettynä päivänä
 STR_2399    :Puiston arvo tiettynä päivänä
 STR_2400    :Pidä hauskaa
-STR_2401    :Rakenna parhaat radat joita voit
+STR_2401    :Rakenna parhaat radat mitä pystyt
 STR_2402    :Rakenna 10 vuoristorataa
 STR_2403    :Vieraiden määrä puistossa
 STR_2404    :Kuukausitulo laitteiden tuloista
@@ -1813,7 +1813,7 @@ STR_2466    :{SMALLFONT}{BLACK}Näytä puiston tilastot
 STR_2467    :{SMALLFONT}{BLACK}Näytä pelin tavoitteet
 STR_2468    :{SMALLFONT}{BLACK}Näytä viimeiset palkinnot mitä tämä puisto on saanut
 STR_2469    :{SMALLFONT}{BLACK}Valitse tutkinnan ja kehityksen taso
-STR_2470    :{SMALLFONT}{BLACK}Kehitä uusia transportaatiolaitteita
+STR_2470    :{SMALLFONT}{BLACK}Kehitä uusia kuljetuslaitteita
 STR_2471    :{SMALLFONT}{BLACK}Kehitä uusia lempeitä laitteita
 STR_2472    :{SMALLFONT}{BLACK}Kehitä uusia vuoristoratoja
 STR_2473    :{SMALLFONT}{BLACK}Kehitä uusia jännittäviä laitteita
