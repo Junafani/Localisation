@@ -95,86 +95,86 @@ STR_0089    :Minivuoristorata
 STR_0090    :Kaivosajelu
 STR_0091    :Tuntematon laite (59)
 STR_0092    :Induktiomoottorilaukaisuvuoristorata
-STR_0512    :A compact roller coaster with a spiral lift hill and smooth, twisting drops.
-STR_0513    :A looping roller coaster where the riders ride in a standing position
-STR_0514    :Trains suspended beneath the roller coaster track swing out to the side around corners
-STR_0515    :A steel roller coaster with trains that are held beneath the track, with many complex and twisting track elements
-STR_0516    :A gentle roller coaster for people who haven't yet got the courage to face the larger rides
-STR_0517    :Passengers ride in miniature trains along a narrow-gauge railway track
+STR_0512    :Kompakti vuoristorata kierrenostomäellä ja pehmeillä, kierteisillä pudotuksilla
+STR_0513    :Silmukkavuoristorata, jossa vieraat matkustavat seisten
+STR_0514    :Radan alapuolella roikkuvat junat heiluvat mutkissa sivulle
+STR_0515    :Teräsvuoristorata jossa junat roikkuvat radan alapuolella monien mutkaisten ja vääntävien rataelementtien läpi
+STR_0516    :Rauhallinen vuoristorata ihmisille, joilla ei ole rohkeutta mennä isompiin laitteisiin
+STR_0517    :Matkustajat kulkevat pienoisjunissa kapearaiteisella rautatiellä
 STR_0518    :Matkustajat kulkevat sähköisillä junilla yksittäisellä raiteella
-STR_0519    :Passengers ride in small cars hanging beneath the single-rail track, swinging freely from side to side around corners
-STR_0520    :A dock platform where guests can drive/row personal watercraft on a body of water
-STR_0521    :A fast and twisting roller coaster with tight turns and steep drops. Intensity is bound to be high.
-STR_0522    :A smaller roller coaster where the riders sit above the track with no car around them
-STR_0523    :Riders travel slowly in powered vehicles along a track-based route
-STR_0524    :Freefall car is pneumatically launched up a tall steel tower and then allowed to freefall down
-STR_0525    :Riders career down a twisting track guided only by the curvature and banking of the semi-circular track
-STR_0526    :Passengers travel in a rotating observation cabin which travels up a tall tower
-STR_0527    :A smooth steel-tracked roller coaster capable of vertical loops
-STR_0528    :Riders travel in inflatable dinghies down a twisting semi-circular or completely enclosed tube track
-STR_0529    :Mine train themed roller coaster trains career along steel roller coaster track made to look like old railway track
-STR_0530    :Cars hang from a steel cable which runs continuously from one end of the ride to the other and back again
-STR_0531    :A compact steel-tracked roller coaster where the train travels through corkscrews and loops
-STR_0532    :Maze is constructed from 6-foot tall hedges or walls, and guests wander around the maze leaving only when they find the exit
-STR_0533    :Wooden building with an internal staircase and an external spiral slide for use with slide mats
+STR_0519    :Matkustajat kulkevat pienissä vaunuissa, jotka roikkuvat ja heilahtelevat vapaasti radan alapuolella
+STR_0520    :Laituri josta vieraat voivat ajaa tai soutaa pienillä veneillä vedessä
+STR_0521    :Nopea ja mutkikas vuoristorata tiukoilla mutkissa ja jyrkillä pudotuksilla. Intensiteetti tulee olemaan korkea.
+STR_0522    :Pienempi vuoristorata jossa matkustajat istuvat radan päällä ilman että heillä olisi vaunua ympärillään
+STR_0523    :Matkustajat kulkevat hitaasti moottoroiduilla kulkuneuvoilla rataa pitkin
+STR_0524    :Vaunu laukaistaan paineilmalla ylös terästornia pitkin ja annetaan sitten pudota vapaasti alas
+STR_0525    :Matkustajat kiitävät mutkaista puolipyöreää rataa pitkin radan suunnan ja kallistuksen ollessa ainoa ohjaus
+STR_0526    :Matkustajat matkustavat pyörivässä maisemavaunussa korkean tornin huipulle
+STR_0527    :Pehmeäkulkuinen teräsratainen vuoristorata jos pystyy silmukoihin
+STR_0528    :Matkustajat matkustavat pumpattavissa kumiveneissä mutkaista puolipyöreää tai täysin katettua rataa pitkin
+STR_0529    :Kaivosjunalta näyttävä juna kiitävät vanhalta rautatieltä näyttävää teräsvuoristorataa pitkin
+STR_0530    :Vaunut roikkuvat teräskaapelista joka kulkee laitteen päästä päähän katkeamattomasti
+STR_0531    :Kompakti teräsratainen vuoristorata, jossa junat kulkevat korkkiruuvien ja silmukoiden läpi
+STR_0532    :Kolmemetrisistä pensasaidoista tehty sokkelo, jossa vieraat harhailevat kunnes löytävät ulos
+STR_0533    :Puurakennus, jonka sisällä on portaikko ja ulkopuolella liukumatoilla laskettava liukumäki
 STR_0534    :Itsestään ajavat bensalla kulkevat mikroautot
-STR_0535    :Log-shaped boats travel along a water channel, splashing down steep slopes to soak the riders
-STR_0536    :Circular boats meander along a wide water channel, splashing through waterfalls and thrilling riders through foaming rapids
-STR_0537    :Self-drive electric dodgem cars
-STR_0538    :Large swinging pirate ship
-STR_0539    :Ship is attached to an arm with a counterweight at the opposite end, and swings through a complete 360 degrees
-STR_0540    :A stall where guests can purchase food
-STR_0542    :A stall where guests can purchase drinks
-STR_0544    :A stall that sells souvenirs
-STR_0545    :Traditional rotating carousel with carved wooden horses
-STR_0547    :A stall where guests can obtain park maps and purchase umbrellas
-STR_0548    :A toilet building
-STR_0549    :Rotating big wheel with open chairs
-STR_0550    :Riders view a film inside the motion simulator pod while it is twisted and moved around by a hydraulic arm
-STR_0551    :Cinema showing 3D films inside a geodesic sphere shaped building
-STR_0552    :Passengers ride in a gondola suspended by large rotating arms, rotating forwards and backwards head-over-heels
-STR_0553    :Concentric pivoting rings allowing the riders free rotation in all directions
-STR_0554    :The car is accelerated out of the station along a long level track using Linear Induction Motors, then heads straight up a vertical spike of track, freefalling back down to return to the station
+STR_0535    :Tukinnäköiset veneet kulkevat vesikanavassa, kastellen matkustajat jyrkkien laskujen pärskyissä
+STR_0536    :Ympyräveneet mutkittelevat leveää vesikanavaa pitkin, mennen läpi vesiputousten ja hurjien koskien roiskeiden
+STR_0537    :Sähkökäyttöisen ajettavat törmäilyautot
+STR_0538    :Iso heiluva merirosvolaiva
+STR_0539    :Puomiin kiinnitetty laiva, jonka toisessä päässä on vastapaino, heilahtaa täydet 360 astetta
+STR_0540    :Koju josta vieraat voivat ostaa ruokaa
+STR_0542    :Koju josta vieraat voivat ostaa juotavaa
+STR_0544    :Koju joka myy matkamuistoja
+STR_0545    :Perinteinen pyörivä karuselle veistetyillä puuhevosilla
+STR_0547    :Koju josta vieraat voivat hankki puiston kartan ja ostaa sateenvarjoja
+STR_0548    :Vessarakennus
+STR_0549    :Iso pyörivä pyörä, jossa vieraat istuvat avopenkeissä
+STR_0550    :Vieraat katvoat elokuvan liikesimulaattorin sisällä samalla kun se liikkuu ja vääntyilee hydrauliikkavarren päässä
+STR_0551    :3D-elokuvia näyttävä teatteri geodeettisen pyöreän rakennuksen sisällä
+STR_0552    :Veraat istuvat isojen pyörivien varsien päässä roikkuvassa gondolissa, pyörien päistikkaa eteen- ja taaksepäin
+STR_0553    :Samankeskeiset pyörivät renkaat sallivat matkustajien pyörivän mhiin suuntaan tahansa
+STR_0554    :Lineaari-induktiomoottorit kiihdyttävät vaunun asemalta pitkää suoraa rataa pitkin, jonka päässä vaunu nousee pystysuoraa rataa pitkin ylös vapaapudoten sitten takaisin asemalle
 STR_0555    :Pystysuora torni, jossa vieraat kulkevat hissillä ylös tai alas päästäkseen tasolta toiselle
 STR_0556    :Leveät vaunut laskevat pystysuoraa rataa täyden vapaapudotuskokemuksen saavuttamiseksi
-STR_0557    :An A.T.M. (Cash Machine) for guests to use if they run low on funds
-STR_0558    :Riders ride in pairs of seats rotating around the ends of three long rotating arms
-STR_0559    :Large themed building containing scary corridors and spooky rooms
-STR_0560    :A place for sick guests to go for faster recovery
-STR_0561    :Circus animal show inside a big-top tent
+STR_0557    :Pankkiautomaatti josta vieraat voivat nostaa rahaa jos heiltä loppuu käteinen
+STR_0558    :Matkustajat ovat vapaasti pyörivillä penkeillä jotka ovat kolmen pitkän pyörivän varren päässä
+STR_0559    :Iso koristeltu rakennus jossa on pelottavia käytäviä ja aavemaisia huoneita
+STR_0560    :Paikka johon kipeät vieraat menevät parantuakseen nopeammin
+STR_0561    :Eläinsirkusesitys sirkusteltassa
 STR_0562    :Moottoroidut vaunut kulkevat monitasoista rataa pelottavien lavastusten ja erikoisefektien läpi
 # 'Air time' is an expression used in finnish too, for the lack of a better word
-STR_0563    :Sitting in comfortable trains with only simple lap restraints riders enjoy giant smooth drops and twisting track as well as plenty of 'air time' over the hills
+STR_0563    :Vieraat istuvat mukavissa junissa, joissa on pelkkä sylitanko, mennen isojen pehmeiden pudotusten ja mutkaisen radan läpi saaden samalla paljon airtimeä mäkien päällä
 STR_0564    :Puisen radan takia tämä vuoristorata on nopea, raaka, meluisa ja tarjoaa 'out of control'-kokemuksen ja paljon airtimeä
 STR_0565    :Yksinkertainen puinen vuoristorata joka kykenee vain lempeisiin mäkiin ja käännöksiin. Vaunut pysyvät radalla sivukitkapyörien ja painovoiman avulla
 STR_0566    :Yksittäiset vuoristoratavaunut singahtelevat pitkin tiukkaa mutkarataa jossa on teräviä kaarteita ja pudotuksia
 STR_0567    :Radan sivuilla olevissa tuoleissa matkustajia pyöritetään ylösalaisin kun vaunu huristaa alas jyrkkiä pudotuksia läpi useiden inversioiden
 STR_0569    :Erikoisvaljaiden ansiosta matkustajat kokevat lentävänsä ilmojen halki
 STR_0571    :Pyöreät vaunut pyörivät ympäri mutkikkaalla puisella radalla
-STR_0572    :Large capacity boats travel along a wide water channel, propelled up slopes by a conveyer belt, accelerating down steep slopes to soak the riders with a gaint splash
-STR_0573    :Powered helicoper shaped cars running on a steel track, controlled by the pedalling of the riders
-STR_0574    :Riders are held in special harnesses in a lying-down position, travlling through twisted track and inversions either on their backs or facing the ground
-STR_0575    :Powered trains hanging from a single rail transport people around the park
-STR_0577    :Bogied cars run on wooden tracks, turning around on special reversing sections
-STR_0578    :Cars run along track enclosed by circular hoops, traversing steep drops and heartline twists
-STR_0579    :A gentle game of miniature golf
-STR_0580    :A giant steel roller coaster capable of smooth drops and hills of over 300ft
+STR_0572    :Isokapasiteettinen laiva kulkee leveää vesikanavaa pitkien kuljetushihnat hinatessa sen mäen päälle ja kiitäen jyrkää mäkeä alas kastellen vieraat isossa molskahduksessa
+STR_0573    :Helikopterin näköiset vaunut kulkevat teräsrataa pitkien matkustajien polkiessa niitä eteenpäin
+STR_0574    :Erikoisvaljaissa olevat matkustajat kulkevat mutkaisen radan ja inversioiden läpi makuullaan tai selällään
+STR_0575    :Kiskosta roikkuvat moottorijunat kuljettavat ihmisiä ympäri puistoa
+STR_0577    :Puuradalla kulkevat telivaunut heilahtavat ympäri erityisissä kääntökohdissa
+STR_0578    :Vaunut kulkevat renkaiden ympäröivää rataa pitkien mennen jyrkkien pudotusten ja sydänviivakäännösten
+STR_0579    :Rauhallinen minigolfrata
+STR_0580    :Jättiläismäinen teräsvuoristorata pehmeillä pudotuksilla ja yli 90 metrisillä mäillä
 STR_0581    :Pyöreä tuolirivi nousee korkean tornin huipulle, josta se putoaa vapaasti alas. Alhaalla magneettijarrut pysäyttävät vaunun lempeästi
-STR_0582    :Self-drive hovercraft vehicles
-STR_0583    :Building containing warped rooms and angled corridors to disorientate people walking through it
-STR_0584    :Special bicycles run on a steel monorail track, propelled by the pedalling of the riders
-STR_0585    :Riders sit in pairs of seats suspended beneath the track as they loop and twist through tight inversions
-STR_0586    :Boat shaped cars run on roller coaster track to allow twisting curves and steep drops, splashing down into sections of water for gentle river sections
-STR_0587    :After an exhilarating air-powered launch, the train speeds up a vertical track, over the top, and vertically down the other side to return to the station
-STR_0588    :Individual cars run beneath a zig-zagging track with hairpin turns and sharp drops
-STR_0589    :A large flying-carpet themed car which moves up and down cyclically on the ends of 4 arms
-STR_0590    :Riders ride in a submerged submarine through an underwater course
-STR_0591    :Raft-shaped boats gently meander around a river track
-STR_0593    :Rotating wheel with suspended passenger pods, which first starts spinning and is then tilted up by a supporting arm
-STR_0598    :Inverted roller coaster trains are accelerated out of the station to travel up a vertical spike of track, then reverse back through the station to travel backwards up another vertical spike of track
-STR_0599    :A compact roller coaster with individual cars and smooth twisting drops
-STR_0600    :Powered mine trains career along a smooth and twisted track layout
-STR_0602    :Roller coaster trains are accelerated out of the station by linear induction motors to speed through twisting inversions
+STR_0582    :Ajettava ilmatyynyalus
+STR_0583    :Kieroilla huoneilla ja vinokäytävillä vieraansa sekoittava rakennus
+STR_0584    :Yksiraiteisella teräsradalla kulkevat matkustajien polkemat polkupyörät
+STR_0585    :Matkustajat istuvat parituoleissa jotka roikkuvat radan alapuolella mennen tiukkojen silmukoiden ja käännösten läpi
+STR_0586    :Veneen näköiset vaunut kulkevat vuoristoradan mahdollistamien tiukkojen kurvien ja pudotusten läpi, loiskahtaen välillä veteen rauhallista jokiosuutta varten
+STR_0587    :Huumaavan paineilmalaukaisun jälkeen juna kiitää pystysuoraa rataa pitkin huipulle, tullen sieltä pystysuoraan alas palaten takaisin asemalle 
+STR_0588    :Yksittäiset vaunut kulkevat täynnä neulansilmiä ja äkkipudotuksia olevan mutkittelevat radan alapuolella
+STR_0589    :Iso lentävä matto -teemainen vaunu menee ylös ja alas neljän tukivarren päässä
+STR_0590    :Matkustajat kulkevat vedenalaista reittiä sukellusveneellä
+STR_0591    :Lauttaveneet kiemurtelevat rauhallisesti jokirataa pitkin
+STR_0593    :Pyörä matkustajakapseleilla joka alkaa ensin pyöriä ja joka sitten kallistetaan ylös tukivarren avulla
+STR_0598    :Roikkuvuoristoratajuna kiihdytettään asemalta pystysuoraan mäkeen, josta se apalaa asmean läpi peruuttaen toiseen pystysuoraan mäkeen
+STR_0599    :Kompakti vuoristorata yksittäisvaunuilla ja pehmeillä kierrelaskuilla
+STR_0600    :Moottoroitu kaivosjuna viilettää pitkin sulavaa ja mutkaista rataa pitkin
+STR_0602    :Lineaari-induktiomoottorit kiihdyttävät junan asemalta kiitämään kurvikkaiden inversioiden läpi
 STR_0767    :Vieras {INT32}
 STR_0768    :Yleismies {INT32}
 STR_0769    :Mekaanikko {INT32}
